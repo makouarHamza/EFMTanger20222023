@@ -62,7 +62,9 @@ function App(){
         <BrowserRouter>
             <Header />
             <Routes>
-                <Route path="/" element={<h2>Hello Word...</h2>}></Route>
+                <Route path="/" element={<div><h2>EFM 2022-2023 Tanger Tetoune 
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam quam sint hic. Enim architecto velit esse voluptate pariatur atque, maxime cum totam molestias animi, harum omnis nisi commodi, aperiam voluptatem?</p>
+                </h2></div>}></Route>
                 <Route path="/listS/" >
                     <Route index element={<ListStagaire suprimer={suprimer} listS={stData} searchTerm={searchTerm} search={search}/>} />
                     <Route path=":nom" element={<DetailStagire listS={stData}/>} />
