@@ -1,0 +1,9 @@
+.Slist{
+    display:flex;
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2px;
+}

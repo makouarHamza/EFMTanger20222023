@@ -1,0 +1,39 @@
+{
+  "stagires": [
+    {
+      "id": "4006",
+      "image": "stagaire2.jpeg",
+      "nom": "Makouar",
+      "prenom": "Hamza",
+      "filiere": "Dev"
+    },
+    {
+      "id": "g4vb",
+      "image": "stagaire1.jpeg",
+      "nom": "Hamza",
+      "prenom": "Hamza test",
+      "filiere": "test"
+    },
+    {
+      "id": "ax47",
+      "image": "stagaire3.jpeg",
+      "nom": "Mehdi",
+      "prenom": "El Mehdi",
+      "filiere": "student"
+    },
+    {
+      "id": "75di",
+      "image": "stagaire4.jpeg",
+      "nom": "zaha",
+      "prenom": "drissi",
+      "filiere": "st"
+    },
+    {
+      "id": "9nqf",
+      "image": "stagaire1.jpeg",
+      "nom": "sidi Driss el ",
+      "prenom": "Driss",
+      "filiere": "see"
+    }
+  ]
+}

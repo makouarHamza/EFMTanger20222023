@@ -1,0 +1,29 @@
+header{
+    background-color: lightgray;
+    
+}
+header ul{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+header a{
+    text-decoration: none;
+    color: aliceblue;
+    transition: 0.12s;
+}
+header a.active{
+    background-color: aliceblue;
+    color: black;
+    padding: 1rem;
+    border-radius: 12%;
+}
+header a:hover{
+    background-color: aliceblue;
+    color: black;
+    padding: 1rem;
+    border-radius: 12%;
+}
+header h1{
+    color: white;
+}
